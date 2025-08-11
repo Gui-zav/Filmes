@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+.google-sans-code-<uniquifier> {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
