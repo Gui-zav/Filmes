@@ -4,3 +4,10 @@ body{
 font-family:"Google Sans Code" sans-serif;
 margin: 0px;
 }
+head{
+    font-size: 40px;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
